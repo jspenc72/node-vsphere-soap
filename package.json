@@ -15,6 +15,7 @@
     "url": "https://github.com/reedog117/node-vsphere-soap/issues"
   },
   "dependencies": {
+    "bluebird": "^2.9.33",
     "lodash": "3.x.x",
     "soap": "0.8.0",
     "soap-cookie": "0.10.x"
